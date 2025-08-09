@@ -1,39 +1,41 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [cusa] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [cutlet]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [nidhad] - [College of engineering thalassery]
+
 
 ### Project Description
-[2-3 lines about what your project does]
-
+CuSA is an  web app that judges your cutlets like a Michelin-star chef 🧑‍🍳. It scans your cutlet's shape,  and symmetry, then roasts or praises it with hilarious feedback.
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Nobody needs to measure cutlet perfection… until they realize their cousin’s cutlets are suspiciously rounder than theirs. #CutletEnvy
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+CuSA uses computer vision to:
+Score symmetry (0-10)
+Roast uneven edges like Gordon Ramsay 🔥
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Software:
+
+HTML/CSS/JavaScript (Because the web deserves cutlet justice)
+
+Canvas API (To draw shame circles around bad cutlets)
+
+OpenCV.js (For "serious" shape analysis)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-🍳 1 frying pan (preferably non-stick)
+
+👁️ 1 smartphone camera (to capture cutlet crime
 
 ### Implementation
 For Software:
@@ -47,18 +49,16 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1920" height="902" alt="Screenshot 2025-08-09 165120" src="https://github.com/user-attachments/assets/b684184e-c805-4cd7-8667-f98a0f973391" />
+Where cutlets go to be judged
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]<img width="1920" height="877" alt="Screenshot 2025-08-09 165921" src="https://github.com/user-attachments/assets/1be1ec32-b0ca-4776-a57a-ec14a440c341" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]<img width="1920" height="921" alt="Screenshot 2025-08-09 170126" src="https://github.com/user-attachments/assets/0b9dada9-c303-4293-9e39-ef3ec9fbb0f4" />
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1920" height="1080" alt="Useless project" src="https://github.com/user-attachments/assets/8abc4ad4-91c5-4f78-a154-1d0870a30ed2" />
+
 
 For Hardware:
 
@@ -88,9 +88,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Nidhad]: []
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
